@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Rezolvari
 4.WHITE BOX TESTING  is a software testing method in which the internal structure of the softtware is known to the tester.
 
 Black BOX TESTING  is a software testing method in which the internal structure of the softtware is not known to the tester.
@@ -24,4 +27,3 @@ severity:high
 description:when you try press sign in appear error page even the email and pass are right written
 -steps:write email corectly,pass correctly, and press sig in but appear arror page not the logged page
 
-=======
