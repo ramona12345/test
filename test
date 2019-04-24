@@ -1,1 +1,25 @@
-fgfdgdds
+4.WHITE BOX TESTING  is a software testing method in which the internal structure of the softtware is known to the tester.
+
+Black BOX TESTING  is a software testing method in which the internal structure of the softtware is not known to the tester.
+
+ex:A tester, without knowledge of the internal structures of a website, tests the web pages by using a browser; providing clicks and verifying the outputs against the expected outcome.
+
+5.
+functional:
+-press login and pass,must redirect to the right page in login page
+-parola uitata trebuie sa redirectioneze pe pagina corecta in care sa introduci alta parola
+-parola si email trebuie sa resprecte cerintele
+
+non-functional:
+-securitate buna
+-la logare trebuie sa ramai logat pana la inchidere
+-la deschidere nu trebuie sa ramana logat
+-pagina sa se incarce bine
+
+6.bug report
+title:login doesn; work
+priority:low
+severity:high
+description:when you try press sign in appear error page even the email and pass are right written
+-steps:write email corectly,pass correctly, and press sig in but appear arror page not the logged page
+
